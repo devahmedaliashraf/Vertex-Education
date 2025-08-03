@@ -1,0 +1,16 @@
+cat << 'EOF' > .gitignore
+# Core WordPress config + cache
+#/wp-config.php
+.htaccess
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies / build artefacts
+node_modules/
+vendor/
+
+# Logs, caches, uploads (optional if you want to push your uploads folder)
+*.log
+EOF
