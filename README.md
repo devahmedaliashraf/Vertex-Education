@@ -3,7 +3,7 @@ Here’s a full README.md in the same clear, nicely formatted style:
 markdown
 Copy
 Edit
-# Vertex Education – Full WordPress Build + API Integration
+# Vertex Education – WordPress Development & Maintenance + API & External Data Integration + Stakeholder & Content Support + Roadmapping 
 
 > Version-controlled snapshot of a complete WordPress site, custom theme, plugin tweaks & JSON→HTML data table via WPGetAPI.
 
@@ -171,3 +171,4 @@ Edit
    git add README.md
    git commit -m "📖 Add detailed README"
    git push
+
