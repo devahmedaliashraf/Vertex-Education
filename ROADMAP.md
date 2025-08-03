@@ -1,9 +1,3 @@
-# 1. From within your local repo folder:
-cd /d/xampp/htdocs/vertexeducation
-
-# 2. Create the file and open it in your editor:
-cat << 'EOF' > ROADMAP.md
-# Governance, Standards & Roadmap
 
 ## 1. Long-Term Infrastructure Roadmap
 | Quarter       | Initiative                                               |
@@ -40,7 +34,3 @@ cat << 'EOF' > ROADMAP.md
 > _Document last updated: 2025-08-03_
 EOF
 
-# 3. Stage, commit and push:
-git add ROADMAP.md
-git commit -m "📑 Add Governance & Standards roadmap"
-git push
