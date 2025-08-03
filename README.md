@@ -1,8 +1,4 @@
-Here’s a full README.md in the same clear, nicely formatted style:
 
-markdown
-Copy
-Edit
 # Vertex Education – WordPress Development & Maintenance + API & External Data Integration + Stakeholder & Content Support + Roadmapping 
 
 > Version-controlled snapshot of a complete WordPress site, custom theme, plugin tweaks & JSON→HTML data table via WPGetAPI.
@@ -31,7 +27,7 @@ This repo contains the entire WordPress codebase for **Vertex Education**, inclu
    cd /d/xampp/htdocs
    git clone https://github.com/devahmedaliashraf/Vertex-Education.git
    cd Vertex-Education
-Import the SQL dump into a new MySQL database (e.g. vertexeducation).
+Import the SQL dump into a new MySQL database (vertexeducation).
 
 Update wp-config.php with your local DB credentials.
 
@@ -171,4 +167,5 @@ Edit
    git add README.md
    git commit -m "📖 Add detailed README"
    git push
+
 
