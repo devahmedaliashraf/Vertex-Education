@@ -9,7 +9,7 @@
 
 ## 2. Documentation & Standards
 - **Code Style:**  
-  – PHP: PSR-12<br>– JavaScript: Airbnb ESLint<br>– CSS/SCSS: 2-space indent  
+  – PHP: PSR-12<br>– JavaScript: <br>– CSS/SCSS: 2-space indent  
 - **Directory Layout:**  
 
 
